@@ -1,6 +1,18 @@
 # My Prompt Library
 
-1. General
-2. Investing
-3. Programming
-4. Business
+1. [General](general.md)
+1. [Investing](investing.md)
+1. [Programming](programming.md)
+1. [Business](business.md)
+1. [Productivity](productivity.md)
+1. [Writing & Creativity](writing.md)
+1. [Education & Learning](education.md)
+1. [Data Science & AI](data-science.md)
+1. [Design & UX](design.md)
+1. [Marketing & Growth](marketing.md)
+1. [Health & Wellness](health.md)
+1. [Legal & Compliance](legal.md)
+1. [Customer Support & Sales](support.md)
+1. [DevOps & Infrastructure](devops.md)
+1. [Prompt Engineering & Templates](prompt-engineering.md)
+1. [Personal Development & Career](career.md)
