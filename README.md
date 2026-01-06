@@ -16,3 +16,4 @@
 1. [DevOps & Infrastructure](devops.md)
 1. [Prompt Engineering & Templates](prompt-engineering.md)
 1. [Personal Development & Career](career.md)
+1. [External Resources](external-resources.md)
