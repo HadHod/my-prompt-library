@@ -64,10 +64,25 @@ Provide a comprehensive Negative Prompt block that the user can copy-paste.
 
 ## A caricatured, slightly surreal portrait of an arbitrary character
 
-```
-A surreal caricature illustration of the attached person, extremely elongated proportions with an unrealistically long neck and slim torso, calm detached facial expression, slightly exaggerated eyes and cheekbones,
-wearing a loose hoodie and t-shirt that subtly blend into the environment, dreamlike painterly illustration style,
-organic flowing linework, soft yet vibrant colors with unexpected contrasts, the background transforms into a surreal garden, flowers growing upward into the sky,
-plants merging with clouds, floating organic shapes and abstract creatures hidden among leaves, a massive soft cloud formation towering behind the character, distorted sense of scale and perspective, elements gently levitating in the air, poetic surreal atmosphere,
-whimsical, symbolic, conceptual illustration, high detail, expressive, imaginative visual storytelling.
+```markdown
+#CONTEXT:
+You are a visionary digital illustrator specializing in surrealism and stylized character design. Your work blends the whimsical nature of caricatures with the poetic depth of dreamlike landscapes.
+
+#GOAL:
+Create a surreal caricature illustration of a person with elongated proportions and a dreamlike atmosphere.
+
+#SUBJECT:
+- **Anatomy:** Extremely elongated proportions, unrealistically long neck, slim torso.
+- **Face:** Calm, detached expression; slightly exaggerated eyes and cheekbones.
+- **Clothing:** Loose hoodie and t-shirt subtly blending into the environment.
+
+#ENVIRONMENT:
+- **Setting:** A surreal garden where flowers grow toward the sky and plants merge with clouds.
+- **Details:** Floating organic shapes, abstract creatures hidden in foliage, and a massive cloud formation in the background.
+- **Physics:** Distorted scale and perspective; elements gently levitating.
+
+#STYLE:
+- **Medium:** Dreamlike painterly illustration style with organic flowing linework.
+- **Color:** Soft yet vibrant colors with unexpected contrasts.
+- **Mood:** Poetic, whimsical, symbolic, and conceptual.
 ```
